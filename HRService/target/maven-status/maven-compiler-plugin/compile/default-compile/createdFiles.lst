@@ -1,0 +1,4 @@
+com\zensar\hr\resources\HrResource.class
+com\zensar\hr\model\EmployeesList.class
+com\zensar\hr\model\Employee.class
+com\zensar\hr\HrServiceApplication.class
